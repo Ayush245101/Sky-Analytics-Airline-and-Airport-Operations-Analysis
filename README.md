@@ -29,7 +29,7 @@ See the included dashboard for:
 - Causes of delays and cancellations
 - Traffic distribution by time of day and location
 
-![Dashboard Preview](image1)
+![Dashboard Preview](excel.jpg)
 
 ## Usage
 1. Place the CSV files in the project directory.
